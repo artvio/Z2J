@@ -3,7 +3,7 @@ numbers2 = [1, 3, 6, 12, 1, 23, 43, 12, 12, 200]
 numbers3 = [1, 3, 6, 12, 1, 23, 43, 12, 13, 300]
 
 numbers = [numbers1, numbers2, numbers3]
-
+print (numbers)
 def print_avg(value):
     print("Średnia wynosi:", value)
 
